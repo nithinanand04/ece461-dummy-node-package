@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "npmrc": "^1.1.1"
+  },
+  "name": "ece461-dummy-node-package",
+  "description": "dummy package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "nithin anand",
+  "license": "MIT"
+}
